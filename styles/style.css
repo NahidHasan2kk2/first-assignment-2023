@@ -8,22 +8,23 @@ body {
 
 /* header styles  */
 header {
-    background-image: url(../images/banner/banner1.png);
+    background-image: url(../images/banner/banner1\(1\).png);
     background-position: center;
     width: 100%;
-    height: 700px;
+    height: 600px;
 }
 
 .header-content {
-    padding-left: 750px;
-    padding-right: 100px;
-    padding-top: 200px;
+    padding-left: 150px;
+    padding-top: 150px;
+    padding-bottom: 200px;
+    padding-right: 700px;
 }
 
 .header-title {
     color: #151414;
-    font-size: 45px;
-    font-weight: 700;
+    font-size: 50px;
+    font-weight: 900;
 }
 
 .header-description {
