@@ -77,3 +77,31 @@ header {
 }
 
 /* section 3 styles  */
+.container3 {
+    margin: 150px 180px;
+    padding: 50px 60px;
+    border-radius: 10px;
+    background-image: url(../images/gradient3.png), url(../images/watch.png);
+    background-repeat: no-repeat;
+
+}
+
+.container3-button {
+    color: #F15B22;
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 15px 30px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.container3-text {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 250px;
+}
+
+/* footer styles  */
